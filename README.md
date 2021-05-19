@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @retchohrips
+- 🏷 Pronouns: he/him
+- 👀 I’m interested in web design and all kinds of automation
+- 🌱 I’m currently learning CSS & HTML
