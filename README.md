@@ -1,3 +1,1 @@
-- **He/Him**
-- Interested in **web design** and **automation**
-- Learning **HTML** & **CSS**
+
