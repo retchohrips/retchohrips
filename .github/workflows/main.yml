@@ -34,7 +34,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, languages, projects, os
-          plugin_wakatime_repositories_visibility: public
           plugin_16personalities: yes
           plugin_16personalities_url: https://www.16personalities.com/profiles/28b81228a48ac
           plugin_16personalities_sections: personality, profile, traits
