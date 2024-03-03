@@ -31,4 +31,18 @@ I've been deeply interested in computers for basically my whole life.
 ![Scrimba](https://img.shields.io/badge/Scrimba-2B283A?style=flat&logo=scrimba&logoColor=white)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
 <!--END_SECTION:waka-->
