@@ -35,15 +35,13 @@ I've been deeply interested in computers for basically my whole life.
 
 ```text
 💬 Programming Languages: 
-Nix                      42 mins             ████████████████████████░   94.59 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████░░░░   83.32 % 
-Neovim                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-.dotfiles                44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
