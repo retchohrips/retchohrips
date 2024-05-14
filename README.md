@@ -29,20 +29,3 @@ I've been deeply interested in computers for basically my whole life.
 ![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%23123?style=flat&logo=freecodecamp&logoColor=white)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%233F54A3?style=flat&logo=Frontend-Mentor&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/Scrimba-2B283A?style=flat&logo=scrimba&logoColor=white)
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
