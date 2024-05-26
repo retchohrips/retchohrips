@@ -16,7 +16,6 @@ I've been deeply interested in computers for basically my whole life.
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 
-![NixOS](https://img.shields.io/badge/NixOS-%235277C3?style=flat&logo=nixos&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=lat&logo=Firefox-Browser&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143?style=flat&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
